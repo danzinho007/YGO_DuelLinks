@@ -22,6 +22,26 @@ Stage 18
 Stage 19
 
 Stage 20
+Stage 21
+
+Stage_22
+
+Go_Rush:
+Perform 10 Fusion Summon(s) in Duel World (GO RUSH!!).	20 Red Gate Keys
+Perform 2 Special Summon(s) in one Duel using Yuhi Ohdo.	15000 Gold
+Achieve 3 Comeback Victory(ies) in Duels against Yuamu Ohdo at level 40 using Yuhi Ohdo.	30 Blue Gate Keys
+Win 15 Duel World (GO RUSH!!) Duel(s).	1 UR Jewel
+Complete all Stage Missions.	50 Gems
+
+Stage_23:
+
+Go_Rush:
+Achieve 3 Quick Victory(ies) in Duels against Yuhi Ohdo at level 40 using Yuamu Ohdo	32 Yellow Gate Keys
+Achieve 3 win(s) using only LIGHT Monster Cards using Yuamu Ohdo	50 Gate Keys
+Use Trap Cards 8 times in Duel World (GO RUSH!!).	30 R Jewels
+Win 16 Duel World (GO RUSH!!) Duel(s).	30 R Jewels
+Complete all Stage Missions.	50 Gems
+
 Stage 01
 Stage 01
 Stage 01
@@ -55,3 +75,21 @@ Stage 01
 Stage 01
 
 Stage 50
+
+DM : Stage 47 *
+Vencer 25/30 Duelistas Lendários
+Filme = Stage 05 Completo
+GX = Stage 05 Completo *
+5Ds = Stage 02 Completo
+Zexal = Stage 02 Completo
+ArcV = Stage 04 Completo
+Vrains = Stage 01 Completo
+Sevens= Stage 30 Terminei
+GoRush = Stage 22 Completo
+
+DM:
+Usar Joey vencer EspaRoba Lv 30 de virada 
+Usando Joey vencer EspaRoba Lv 30 sem usar Monstro Lv 5 ou superior
+GX:
+Usar Jaden vencer SyrusTruesdale Lv 30 invocar "Gigante do Trovão"
+Usar Syrus vencer ZaneTruesdale e invocar "Par Cyroide"
