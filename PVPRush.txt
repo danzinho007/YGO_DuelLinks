@@ -1,0 +1,22 @@
+﻿---PVP 26/03 5 jogos
+-Nome (Personagem) = Tipo de Deck (Duelo)
+-Joma93 (Yudias) = Fusão ( Perdi 1)
+-st45(Madox) = Salamandra(Venci1)
+-Yuga(Sky High) = Fusão (Venci2)
+-Yuga(FurieOisive) = SevensFusão (Perdi2)
+-Maddox(HamasterStyle) = Salamangrande(Perdi3) 5 jogos
+
+---PVP 26/03 5 jogos
+1-Menina = Desistiu ( Venci 1 )
+2-Yuga(Reaper) = DeckInicialYuga (Venci2)
+3-Luciden(Jhonny) = Dragão39cartas(Perdi1)
+4-Maddox = FusaoGaia(Perdi2)
+5-Maddox = FusaoGaia(Perdi3)
+6-Luciden = FusaoGaia(Perdi4)
+7-Yudias = Desistiu ( Venci3)
+
+Cartas interessantes :
+Mag-Esmagamentto de Martelo = 
+Mag-FluxoMágico = 
+Arm-Chamado do Terrestre = 
+Arm-Negat ataque = 

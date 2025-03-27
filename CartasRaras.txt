@@ -1,24 +1,99 @@
-Cartas Raras :
+Cartas 
 
-Kuriboh Alado LV 9 = 2 eventos
-Senhora Fortuna do Fogo = 2 eventos
+---Armagilha:
+-Armadura Sakuretsu
+Box 
+Chips
 
-A Dama Inumara = PVP
-Arquidemônio Matador = PVP
+-Ardor Meteórico
+Mini Box
 
-Anjo do Tempo = Zone
-Darton = Paradox
-Dragão de Montagem = Trudge
-O Lendário Exdoai = Yugi Muto
-Senhora Fortuna da Luz = Carly Carmine
-Senhora Fortuna da Terra = Carly Carmine
-Senhora Fortuna das Trevas = Carly Carmine
-Senhora Fortuna do Vento = Carly_Carmine
-Superdragão Quimeratech = Zane_Trusdale
+-Boa Limpeza 
+???
 
-D/D/D Zero Lapace = Box
-Dragão Mega-Rocha = Box
-Golem-Gogogo = Box
-Gren Maju = Box
-Herói do Destino = Box
-Herói Maligno = Box
+-Jarra da Ganância:
+Deck Yuri
+Maximillium Pegasus
+Garota Fantasma
+
+========================================
+----- Magia -----
+
+A Árvore do Mundo:
+Deck Iniciante espectro
+Duelo Espectro
+
+Choro de Prata:
+Box 
+Chips
+
+Gota Proibida:
+Box
+
+-Passe Secreto:
+???
+
+=======================
+Monstro:
+
+Amaterasu:
+Sera subida_de_nivel
+
+Cavaleiro do Expresso:
+Duelo Anna Kaboom
+Evento Duel_Capsule
+
+D.D. Corvo:
+Box
+
+Dragão Armado LV10:
+Ranqueado
+Eventos
+
+Dragão Cibernético:
+Box_CyberDragonLaunch
+
+-Dragão do Trovão:
+???
+
+-Fênix Sagrada de Nephthys:
+MiniBox Dawn_Of_Destiny
+Trocando_Chips
+Box Return_Of_The_Fire_Kings_EX
+
+Golem do Mecanismo:
+Evento_GoRush
+
+Guardião do Portão:
+Mercador
+Deck Irmãos_Paradoxo
+
+-Invocador de Dragão Azul:
+???
+
+-Kaibaman:
+???
+
+O Dragão Alado:
+Box Phoenix_Blaze
+
+Ocultador de Efeitos:
+Box
+
+Rei das Bestas:
+MiniBox Secrets_Of_The_Ancientes
+Trocando_Chips
+
+Senhormek Astro:
+Mini_Box
+
+Triunfo Coringa Arcano:
+Box Imperial_Joker_EX
+
+-Vassalo do Coveiro:
+???
+
+Yubel - O Pesadelo:
+Duelo Yubel
+Ranqueado 
+

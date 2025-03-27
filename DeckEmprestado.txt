@@ -1,0 +1,53 @@
+Deck: NãoVouFugir 13/20
+
+7-EfeVir-Cão Tindângulo 2500/0 (OK)                   - 01/20
+5-EfeVir-DholesTindângulo 1000/1000 = x2 (OK) - 03/20
+5-Efe-Base Gardna Tindângulo 0/2000 (OK)           - 04/20
+3-EfeVir-JhrelthTindângulo 0/1800                           - 07/20
+6-EfeVir-Intruso Tindângulo 2200/0 (OK)                - 08/20
+3-EfeVir-Protetor Tindângulo 800/1600 = x3 (OK) - 11/20
+MagRap-SolELuna = x3 (OK)                                   - 14/20 
+MagRap-LivroDaLua                                                - 15/20
+MagCont-ProteçãoDeNagel = x2 (OK)                    - 17/20
+Arm-DelaunayTindângulo = x3 (OK)                        - 20/20
+
+ExtraDeck: 7 
+3-Link-CérberoAguçadoTindângulo Atq0 = x3
+2-Link-Cavaleira do PesadeloFênix Atq1900 
+3-Link-CavaleiroDoPesadeloUnicornio Atq2200
+2-Link-PolicialDeRondaDoSubmundo Atq1000
+2-Link-Despachapaparazzi Atq100
+
+Estratégia:
+7-EfeVir-Cão Tindângulo 2500/0
+-Efeito Virar 
+-Efeito quando vai pro cemitério
+6-EfeVir-Intruso Tindângulo 2200/0
+-Efeito Virar
+-Efeito InvocaçãoNormal
+-Efeito InvocaçãoEspecial
+5-EfeVir-Dholes Tindângulo 1000/1000
+-Efeito Virar
+-Efeito quando vai pro cemitário da mão/deck
+-Efeito Link = 3 ataques
+3-EfeVir-ProtetorTindângulo 800/1600
+-Efeito Virar
+5-Efe-Base Garna Tindângulo 0/2300
+-Efeito "Posição de Defesa"
+-Efeito Link
+3-EfeVir-JhrelthTindângulo 0/1800
+-Efeito Virar
+-Efeito na Mão
+4-EfeVir-TrindadeTindângulo 0/1500
+-Efeito Virar
+-Efeito quando vai pro cemitério pra Link
+3-LinkCérberoAguçadoTindângulo Atq0
+
+Deck Springans
+
+4-Efe-Springans Rockey 1800/800
+Efeito InvocaçãoNormal/Especial do Cemitério
+
+Deck Rival do Springans
+
+4-Efe-FalcãoDaNevasca 1500/1500

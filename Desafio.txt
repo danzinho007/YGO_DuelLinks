@@ -1,0 +1,22 @@
+Desafio : VençaEm1Turno
+
+Adversário campo:
+Arm-Espantalho de Ferro-Velho
+8-EfeSin-Guerreiro da Estrada 3000/1500
+10-EfeFus-Cavaleiro Dragão Draco-Equestre 3200/2000
+5-EfeSin-Guerreiro Sucata 2300/1300
+ 
+Sua Mão
+3-EfeReg-Ressonador da Alma 500/200 = x2
+1-EfeReg-Ressonador de Sinkron 100/100
+Extra Deck
+8-EfeSin-DragãoVermelhoArquidemônioc/Cicatriz 3000/2500
+9-EfeSin-AbrasadorVermelhoArquidemônioDoAbismo 3200/2500
+8-EfeSin-DragãoVermelhoArquidemônio 3000/2000
+Deck
+4-Efe-ArquidemônioDeOssos 1800/0
+1-EfeReg-RessonadorDeSinrkon 100/100
+
+Passos :
+1-Invoca Ressonador, ativa efeito e puxa o Arquidemônio
+2-

@@ -1,4 +1,16 @@
-Decks dos NPCs:
+﻿Decks dos NPCs:
+
+Ashley - Boas-vindas ao Parque Lv 20
+Bella - Uma Dose de Rush Duel Lv 15
+David - Cai Fora Lv 20
+Emma - A Era Apocalíptica Lv 20
+Meg - Rolo de Sushi Lv 15
+Mickey - Rolo de Sushi Lv 20
+Nick - Profusão de Flores Lv 20
+
+Chupataro -
+Jaburamen
+Teru Kawai
 
 Nivel ? - Menina
 
@@ -28,3 +40,11 @@ Atividade Pós-Escolas - Lv 20
 
 NPC
 Boas-vindas ao Parque - Lv 20
+
+
+Garota Fantasma
+Vamos Duelar - Lv 30
+
+4-Fantasma Mágico 1300/1400
+4-Fantasma de Pedra 1200/1000
+Arm-Manifestação Altergeist 

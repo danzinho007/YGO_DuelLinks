@@ -1,1 +1,24 @@
-Níveis 
+﻿Níveis:
+
+DM 9 OK
+Filme 4 OK > 5 OK
+GX 5 OK
+5Ds  4 OK > 5 OK
+Zexal 3 > 4 OK > 5
+ArcV 3 > 4 OK
+Vrains 3 > 4 OK
+Sevens 4 OK
+GoRush 3 OK > 4 OK
+
+Água
+Lofiformentina = OK
+Fogo
+Fireyarou = OK
+Luz 
+AnimalSupremo = OK
+Terra
+Gazelle = OK
+Trevas
+Caveira = OK
+Vento
+Pássaro = OK
