@@ -93,3 +93,4 @@ Usando Joey vencer EspaRoba Lv 30 sem usar Monstro Lv 5 ou superior
 GX:
 Usar Jaden vencer SyrusTruesdale Lv 30 invocar "Gigante do Trovão"
 Usar Syrus vencer ZaneTruesdale e invocar "Par Cyroide"
+

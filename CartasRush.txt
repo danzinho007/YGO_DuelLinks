@@ -1,0 +1,11 @@
+﻿Cartas RushDuel:
+
+Armadilha - Magia - Monstro
+
+---MonstroLegend:
+6-CaveiraInvocada 2500/1200
+950 gemas
+
+---MonstroEfeito:
+7-Efe-DragaoDragiasDeMultiplosGolpes 2500/1500
+Box
